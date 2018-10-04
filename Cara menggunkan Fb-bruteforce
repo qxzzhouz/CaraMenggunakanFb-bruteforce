@@ -1,0 +1,17 @@
+#Cara Menggunakan Fb-Bruteforce Di Termux#
+
+$apt upgrade && apt update
+$pkg install python2
+$pkg install git
+$git clone https://github.com/qxzzhouz/fb-bruteforce
+$cd fb-bruteforce
+$python2 (id fb target) pas.txt
+
+
+NB : •pas.txt bisa diganti dgn nama wordlist kalian
+     •untuk menemukan id bisa dengan www.findmyid,com (lebih enK cari di google)
+     •tool ini menggunakan metode bruteforce
+ 
+#qxzzhouz bukan pembuat tool ini, melainkan saya hanya meng-up kan saja, saya tidak mencari keuntungan semata, dan semua kembalo kpd yang berwenang#
+
+   #THX##UP##BRUTEFORCE#
